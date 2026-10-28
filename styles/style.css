@@ -172,7 +172,7 @@ body {
 
 .lots__card-list-item {
   width: calc((100% - 50px) / 3);
-  min-height: 450px;
+  min-height: 600px;
 }
 
 .card-link {
