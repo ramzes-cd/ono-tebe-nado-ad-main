@@ -63,7 +63,7 @@ body {
 
 .header__logo {
   display: block;
-  width: 130px;
+  width: 148px;
 }
 
 .header__logo-image {
@@ -253,13 +253,11 @@ body {
 }
 
 .about__logo-image {
-  width: 130px;
+  width: 148px;
 }
 
 .about__title {
-  margin: 0;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin: 100px 0;
   font-size: 40px;
   line-height: 47px;
   text-transform: uppercase;
